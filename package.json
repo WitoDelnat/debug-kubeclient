@@ -1,0 +1,23 @@
+{
+  "name": "debug-kubeclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WitoDelnat/debug-kubeclient.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WitoDelnat/debug-kubeclient/issues"
+  },
+  "homepage": "https://github.com/WitoDelnat/debug-kubeclient#readme",
+  "dependencies": {
+    "@kubernetes/client-node": "^0.16.3"
+  }
+}
